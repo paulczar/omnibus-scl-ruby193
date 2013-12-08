@@ -1,0 +1,1 @@
+export PATH=/opt/omnibus/ruby193/embedded/bin${PATH:+:${PATH}}

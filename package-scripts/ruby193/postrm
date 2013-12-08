@@ -1,0 +1,11 @@
+#!/bin/bash
+#
+# Perform necessary ruby193 removal steps
+# after package is uninstalled.
+#
+
+rm /etc/scl/prefixes/omnibus-ruby193
+
+echo "ruby193 has been uninstalled!"
+
+exit 0
